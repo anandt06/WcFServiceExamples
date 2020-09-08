@@ -1,0 +1,15 @@
+C:\Users\ANAND T\source\repos\HelloWCF\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\ANAND T\source\repos\HelloWCF\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\ANAND T\source\repos\HelloWCF\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\ANAND T\source\repos\HelloWCF\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\ANAND T\source\repos\HelloWCF\CalculatorApp\obj\Debug\MainWindow.g.cs
+C:\Users\ANAND T\source\repos\HelloWCF\CalculatorApp\obj\Debug\App.g.cs
+C:\Users\ANAND T\source\repos\HelloWCF\CalculatorApp\obj\Debug\CalculatorApp_MarkupCompile.cache
+C:\Users\ANAND T\source\repos\HelloWCF\CalculatorApp\obj\Debug\CalculatorApp_MarkupCompile.lref
+C:\Users\ANAND T\source\repos\HelloWCF\CalculatorApp\obj\Debug\MainWindow.baml
+C:\Users\ANAND T\source\repos\HelloWCF\CalculatorApp\obj\Debug\CalculatorApp.g.resources
+C:\Users\ANAND T\source\repos\HelloWCF\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\ANAND T\source\repos\HelloWCF\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\ANAND T\source\repos\HelloWCF\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\ANAND T\source\repos\HelloWCF\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\ANAND T\source\repos\HelloWCF\CalculatorApp\obj\Debug\CalculatorApp.pdb

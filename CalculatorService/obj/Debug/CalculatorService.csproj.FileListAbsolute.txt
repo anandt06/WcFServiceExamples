@@ -1,0 +1,6 @@
+C:\Users\ANAND T\source\repos\HelloWCF\CalculatorService\bin\Debug\CalculatorService.dll
+C:\Users\ANAND T\source\repos\HelloWCF\CalculatorService\bin\Debug\CalculatorService.pdb
+C:\Users\ANAND T\source\repos\HelloWCF\CalculatorService\obj\Debug\CalculatorService.csprojAssemblyReference.cache
+C:\Users\ANAND T\source\repos\HelloWCF\CalculatorService\obj\Debug\CalculatorService.csproj.CoreCompileInputs.cache
+C:\Users\ANAND T\source\repos\HelloWCF\CalculatorService\obj\Debug\CalculatorService.dll
+C:\Users\ANAND T\source\repos\HelloWCF\CalculatorService\obj\Debug\CalculatorService.pdb
